@@ -1,16 +1,9 @@
-﻿# website-upload-20260602-121726-016
+# 亚洲热门视频-热门视频片库-高清视频在线播放
 
-Batch 16 of 38. Contains extracted static website versions. The original zip files are not committed.
+本压缩包由上传素材生成，入口文件为 `index.html`。
 
-| Directory | Source zip |
-| --- | --- |
-| version-151 | project-bolt-sb1-3anksma6-chatgpt (1).zip |
-| version-152 | project-bolt-sb1-3bsk3sgt - 副本-chatgpt (1) (moved 1).zip |
-| version-153 | project-bolt-sb1-3bsk3sgt - 副本-chatgpt (1).zip |
-| version-154 | project-bolt-sb1-3bsk3sgt-chatgpt (1) (moved 1).zip |
-| version-155 | project-bolt-sb1-3bsk3sgt-chatgpt (1) (moved 2).zip |
-| version-156 | project-bolt-sb1-3bsk3sgt-chatgpt (1).zip |
-| version-157 | project-bolt-sb1-3ceefb2q - 副本-chatgpt (1).zip |
-| version-158 | project-bolt-sb1-3ceefb2q-chatgpt (1) (moved 1).zip |
-| version-159 | project-bolt-sb1-3ceefb2q-chatgpt (1) (moved 2).zip |
-| version-160 | project-bolt-sb1-3ceefb2q-chatgpt (1).zip |
+- 影片总数：1987
+- 详情页数量：1987
+- 分类页数量：10
+- 播放器：详情页使用上传素材中的 HLS 模块，并绑定上传 JS 中提取的 m3u8 播放源。
+- 图片：页面引用顶级目录 `1.jpg` 到 `150.jpg` 作为封面与 Hero 图；当前素材包未包含这些 JPG 时，页面会显示渐变备用背景。
